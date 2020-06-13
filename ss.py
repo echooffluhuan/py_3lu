@@ -1,3 +1,5 @@
+
+import numpy as np
 jh=2
 s=122
 cc=2
